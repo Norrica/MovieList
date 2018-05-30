@@ -1,0 +1,9 @@
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\obj\Debug\ContentList.csprojResolveAssemblyReference.cache
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\obj\Debug\MovieList.Form1.resources
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\obj\Debug\MovieList.Properties.Resources.resources
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\obj\Debug\ContentList.csproj.GenerateResource.Cache
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\bin\Debug\MovieList.exe.config
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\bin\Debug\MovieList.exe
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\bin\Debug\MovieList.pdb
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\obj\Debug\MovieList.exe
+D:\AAA\Программы\C#\Anytask\MovieList\MovieList\obj\Debug\MovieList.pdb
