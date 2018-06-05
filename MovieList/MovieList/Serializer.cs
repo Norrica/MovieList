@@ -24,7 +24,6 @@ namespace MovieList
 				data = (List<T>)new XmlSerializer(typeof(List<T>)).Deserialize(file);
 			}
 		}
-
 	}
 }
 

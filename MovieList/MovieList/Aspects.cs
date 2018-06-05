@@ -1,18 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+
 namespace MovieList
 {
-	[Serializable]
 	public class Aspects
 	{
-		public String name { get; set; }
+		public string Name { get; set; }
 		public int Score { get; set; }
-		public Categories category { get; set; }
-		public enum Categories { Film,Serial,Animation,Comix}
-		public bool isWatched { get; set; }
+		public Categories Category { get; set; }
+		public enum Categories { Movie, Serial, Animation, Comix, Videogame, Book, Album }
+		public /*static*/ List<string> Genres { get; set; }				
+		public bool IsWatched { get; set; }
 	}
-
 }
